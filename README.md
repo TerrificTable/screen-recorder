@@ -5,3 +5,6 @@ Anyways its made using the librarys:
   - pyautogui - pip install pyautogui
   - keyboard - pip install keyboard
   - numpy - preinstalled with python
+
+If you want to change stuff in the recorder open the file using some kind of text editing program or IDE
+It should be preaty good comented and easy to change stuff if you want to
